@@ -1,0 +1,14 @@
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\bin\Debug\Conexion_Xampp_Visual.exe.config
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\bin\Debug\Conexion_Xampp_Visual.exe
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\bin\Debug\Conexion_Xampp_Visual.pdb
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\bin\Debug\MySql.Data.dll
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\bin\Debug\Google.Protobuf.dll
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\bin\Debug\MySql.Data.xml
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\obj\Debug\Conexion_Xampp_Visual.csprojAssemblyReference.cache
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\obj\Debug\Conexion_Xampp_Visual.Form1.resources
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\obj\Debug\Conexion_Xampp_Visual.Properties.Resources.resources
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\obj\Debug\Conexion_Xampp_Visual.csproj.GenerateResource.cache
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\obj\Debug\Conexion_Xampp_Visual.csproj.CoreCompileInputs.cache
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\obj\Debug\Conexion_Xampp_Visual.csproj.CopyComplete
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\obj\Debug\Conexion_Xampp_Visual.exe
+C:\Users\AGUILAR\source\repos\Conexion_Xampp_Visual\Conexion_Xampp_Visual\obj\Debug\Conexion_Xampp_Visual.pdb
